@@ -1,9 +1,9 @@
 {
-    "arenaImg": "images/arena.png", 
-    "spinnerImg": "images/spinner.png", 
-    "bgmSound": "audio/BGM.wav", 
-    "buttonSound": "audio/button.wav", 
-    "collisionSound": "audio/collision.wav",
-    "player": "images/player.png",
-    "enemy": "images/ball.png"
+  "arenaImg": "https://github.com/NerakaiStudent/bumpData/blob/master/images/arena.png",
+  "spinnerImg": "https://github.com/NerakaiStudent/bumpData/blob/master/images/spinner.png",
+  "bgmSound": "https://github.com/NerakaiStudent/bumpData/blob/master/audio/BGM.wav",
+  "buttonSound": "https://github.com/NerakaiStudent/bumpData/blob/master/audio/button.wav",
+  "collisionSound": "https://github.com/NerakaiStudent/bumpData/blob/master/audio/collision.wav",
+  "player": "https://github.com/NerakaiStudent/bumpData/blob/master/images/player.png",
+  "enemy": "https://github.com/NerakaiStudent/bumpData/blob/master/images/ball.png"
 }
