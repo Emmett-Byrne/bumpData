@@ -1,0 +1,9 @@
+{
+    "arenaImg": "images/arena.png", 
+    "spinnerImg": "images/spinner.png", 
+    "bgmSound": "audio/BGM.wav", 
+    "buttonSound": "audio/button.wav", 
+    "collisionSound": "audio/collision.wav",
+    "player": "images/player.png",
+    "enemy": "images/ball.png"
+}
