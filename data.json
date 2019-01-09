@@ -6,5 +6,7 @@
   "collisionSound": "https://nerakaistudent.github.io/bumpData/audio/collision.wav",
   "player": "https://nerakaistudent.github.io/bumpData/images/player.png",
   "enemy": "https://nerakaistudent.github.io/bumpData/images/ball.png",
-  "buttonImg": "https://nerakaistudent.github.io/bumpData/images/yellowButton.png"
+  "buttonImg": "https://nerakaistudent.github.io/bumpData/images/yellowButton.png",
+  "enemyImg" : "https://nerakaistudent.github.io/bumpData/images/ball.png",
+  "playerImg" : "https://nerakaistudent.github.io/bumpData/images/player.png"
 }
